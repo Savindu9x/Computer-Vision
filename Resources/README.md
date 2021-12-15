@@ -17,4 +17,5 @@
 
 #### Links
 
-01. https://www.pyimagesearch.com/start-here/ 
+01. https://www.pyimagesearch.com/start-here/
+02. https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners 
