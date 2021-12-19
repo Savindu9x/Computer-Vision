@@ -19,3 +19,8 @@
 
 01. https://www.pyimagesearch.com/start-here/
 02. https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners 
+
+Popular Open Source Repositories:  
+                               [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)  
+                               [Kaggle Datasets](https://www.kaggle.com/datasets)  
+                               [AWS Datasets](https://registry.opendata.aws/)
